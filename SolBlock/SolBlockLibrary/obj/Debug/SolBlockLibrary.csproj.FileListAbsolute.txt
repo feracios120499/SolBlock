@@ -47,3 +47,16 @@ D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBloc
 D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlockLibrary\obj\Debug\SolBlockLibrary.pdb
 D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlockLibrary\bin\Debug\System.Data.SQLite.dll
 D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlockLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\SolBlockLibrary.dll.config
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\SolBlockLibrary.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\SolBlockLibrary.pdb
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\obj\Debug\SolBlockLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\obj\Debug\SolBlockLibrary.dll
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlockLibrary\obj\Debug\SolBlockLibrary.pdb

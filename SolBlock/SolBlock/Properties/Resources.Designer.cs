@@ -93,6 +93,26 @@ namespace SolBlock.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Chevron_Down_50px {
+            get {
+                object obj = ResourceManager.GetObject("Chevron_Down_50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Chevron_Right_64px {
+            get {
+                object obj = ResourceManager.GetObject("Chevron_Right_64px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Choice_50px {
             get {
                 object obj = ResourceManager.GetObject("Choice_50px", resourceCulture);

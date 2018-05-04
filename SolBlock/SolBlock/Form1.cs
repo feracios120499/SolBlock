@@ -237,6 +237,7 @@ namespace SolBlock
             panel.Left = 0;
             panel.Invoke(new Action(() => panel.Dock = DockStyle.Top));
         }
+        bool flag = false;
         private void Form1_Load(object sender, EventArgs e)
         {
             UUID = GetCPUId();
@@ -249,6 +250,21 @@ namespace SolBlock
             else
             {
                 panelCheckIn.BringToFront();
+            }
+            foreach (Process p in Process.GetProcesses().Where(p => p.MainWindowTitle.Length != 0))
+            {
+                PanelPopularApp pop;
+                if (flag)
+                {
+                    pop = new PanelPopularApp(FileSystem.GetImage(p.MainModule.FileName), p.ProcessName, Color.FromArgb(20, 19, 31));
+                }
+                else
+                {
+                    pop = new PanelPopularApp(FileSystem.GetImage(p.MainModule.FileName), p.ProcessName, Color.FromArgb(36, 35, 50));
+                }
+                flag = !flag;
+                panelPopularApp.Controls.Add(pop);
+                pop.Dock = DockStyle.Top;
             }
         }
         public void Start()
