@@ -1,0 +1,184 @@
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\bin\Debug\SolBlock.exe.config
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\bin\Debug\SolBlock.exe
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\bin\Debug\SolBlock.pdb
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.csprojResolveAssemblyReference.cache
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.Form1.resources
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.exe
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.pdb
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelDirectory.resources
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\bin\Debug\MaterialSkin.dll
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelSite.resources
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelProg.resources
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\bin\Debug\AltoControls.dll
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.ChoiseAndAdd.resources
+C:\Users\Feracios\Documents\Visual Studio 2015\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelsCurrentApp.resources
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\SolBlock.exe.config
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.exe
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.pdb
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\SolBlock.exe
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\SolBlock.pdb
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\AltoControls.dll
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.ChoiseAndAdd.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.Form1.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelDirectory.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelProg.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelsCurrentApp.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelSite.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\Mono.CSharp.dll
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\MySql.Data.dll
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\MySql.Data.xml
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.Login.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelActivity.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.FormMessage.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.csprojResolveAssemblyReference.cache
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.dll
+D:\GoldeByte\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.pdb
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelStatistics.resources
+D:\GoldeByte\SolBlock\SolBlock\obj\Debug\SolBlock.PanelFile.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe.config
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.exe
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.pdb
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.pdb
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\AltoControls.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mono.CSharp.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.pdb
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.xml
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.xml
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csprojResolveAssemblyReference.cache
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.ChoiseAndAdd.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Form1.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.FormMessage.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelActivity.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelDirectory.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelFile.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelProg.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelsCurrentApp.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelSite.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelStatistics.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.xml
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.xml
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.dll
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.pdb
+D:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.SolBlock.exe.config
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe.config
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.exe
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.pdb
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.pdb
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\AltoControls.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mono.CSharp.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.EF6.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.Linq.dll
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.pdb
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.xml
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.xml
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.pdb
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.xml
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.xml
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csprojResolveAssemblyReference.cache
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.SolBlock.exe.config
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.ChoiseAndAdd.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Form1.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.FormMessage.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelActivity.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelDirectory.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelFile.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelProg.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelsCurrentApp.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelSite.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelStatistics.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
+F:\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe.config
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.exe
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.pdb
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csprojResolveAssemblyReference.cache
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.SolBlock.exe.config
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.ChoiseAndAdd.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Form1.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.FormMessage.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelActivity.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelDirectory.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelFile.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelProg.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelsCurrentApp.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelSite.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelStatistics.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.pdb
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\AltoControls.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mono.CSharp.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.pdb
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.xml
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.xml
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.pdb
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.xml
+D:\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.xml
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe.config
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.exe
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.pdb
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.exe
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlock.pdb
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\AltoControls.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mono.CSharp.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\SolBlockLibrary.pdb
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.xml
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\EntityFramework.SqlServer.xml
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\Mantin.Controls.Wpf.EnumComboBox.pdb
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\MySql.Data.xml
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\bin\Debug\System.Data.SQLite.xml
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csprojResolveAssemblyReference.cache
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.ChoiseAndAdd.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Form1.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.FormMessage.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelActivity.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelDirectory.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelFile.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelProg.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelsCurrentApp.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelSite.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.PanelStatistics.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
+D:\SolBlock(LocalDB)\SolBlock(VersionForStep)\SolBlock(LocalDB)\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
