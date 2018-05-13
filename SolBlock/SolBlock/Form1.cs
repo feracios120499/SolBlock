@@ -254,6 +254,14 @@ namespace SolBlock
             foreach (Process p in Process.GetProcesses().Where(p => p.MainWindowTitle.Length != 0))
             {
                 PanelPopularApp pop;
+                try
+                {
+                    string test = p.MainModule.FileName;
+                }
+                catch
+                {
+                    continue;
+                }
                 if (flag)
                 {
                     pop = new PanelPopularApp(FileSystem.GetImage(p.MainModule.FileName), p.ProcessName, Color.FromArgb(20, 19, 31));

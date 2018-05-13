@@ -72,8 +72,9 @@
       <HintPath>..\packages\Mantin.Controls.Wpf.EnumComboBox.1.1.0.0\lib\net46\Mantin.Controls.Wpf.EnumComboBox.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="MaterialSkin">
-      <HintPath>..\..\..\Projects\SolBlock\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Mono.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <HintPath>..\packages\Mono.CSharp.4.0.0.143\lib\4.5\Mono.CSharp.dll</HintPath>

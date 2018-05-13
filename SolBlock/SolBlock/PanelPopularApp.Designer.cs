@@ -32,11 +32,11 @@
             this.ImageApp = new System.Windows.Forms.PictureBox();
             this.NameApp = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.materialRadioButton3 = new MaterialSkin.Controls.MaterialRadioButton();
+            this.materialRadioButton2 = new MaterialSkin.Controls.MaterialRadioButton();
+            this.materialRadioButton1 = new MaterialSkin.Controls.MaterialRadioButton();
+            this.buttonAdd = new System.Windows.Forms.Button();
             this.bunifuImageButton1 = new Bunifu.Framework.UI.BunifuImageButton();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.ImageApp)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bunifuImageButton1)).BeginInit();
@@ -68,14 +68,80 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.radioButton3);
-            this.panel1.Controls.Add(this.radioButton2);
-            this.panel1.Controls.Add(this.radioButton1);
+            this.panel1.Controls.Add(this.materialRadioButton3);
+            this.panel1.Controls.Add(this.materialRadioButton2);
+            this.panel1.Controls.Add(this.materialRadioButton1);
+            this.panel1.Controls.Add(this.buttonAdd);
             this.panel1.Location = new System.Drawing.Point(3, 62);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(729, 109);
+            this.panel1.Size = new System.Drawing.Size(729, 126);
             this.panel1.TabIndex = 2;
+            // 
+            // materialRadioButton3
+            // 
+            this.materialRadioButton3.AutoSize = true;
+            this.materialRadioButton3.Depth = 0;
+            this.materialRadioButton3.Font = new System.Drawing.Font("Roboto", 10F);
+            this.materialRadioButton3.Location = new System.Drawing.Point(10, 89);
+            this.materialRadioButton3.Margin = new System.Windows.Forms.Padding(0);
+            this.materialRadioButton3.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.materialRadioButton3.MouseState = MaterialSkin.MouseState.HOVER;
+            this.materialRadioButton3.Name = "materialRadioButton3";
+            this.materialRadioButton3.Ripple = true;
+            this.materialRadioButton3.Size = new System.Drawing.Size(198, 30);
+            this.materialRadioButton3.TabIndex = 2;
+            this.materialRadioButton3.TabStop = true;
+            this.materialRadioButton3.Text = "materialRadioButton1";
+            this.materialRadioButton3.UseVisualStyleBackColor = true;
+            // 
+            // materialRadioButton2
+            // 
+            this.materialRadioButton2.AutoSize = true;
+            this.materialRadioButton2.Depth = 0;
+            this.materialRadioButton2.Font = new System.Drawing.Font("Roboto", 10F);
+            this.materialRadioButton2.Location = new System.Drawing.Point(10, 49);
+            this.materialRadioButton2.Margin = new System.Windows.Forms.Padding(0);
+            this.materialRadioButton2.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.materialRadioButton2.MouseState = MaterialSkin.MouseState.HOVER;
+            this.materialRadioButton2.Name = "materialRadioButton2";
+            this.materialRadioButton2.Ripple = true;
+            this.materialRadioButton2.Size = new System.Drawing.Size(198, 30);
+            this.materialRadioButton2.TabIndex = 2;
+            this.materialRadioButton2.TabStop = true;
+            this.materialRadioButton2.Text = "materialRadioButton1";
+            this.materialRadioButton2.UseVisualStyleBackColor = true;
+            // 
+            // materialRadioButton1
+            // 
+            this.materialRadioButton1.AutoSize = true;
+            this.materialRadioButton1.Depth = 0;
+            this.materialRadioButton1.Font = new System.Drawing.Font("Roboto", 10F);
+            this.materialRadioButton1.ForeColor = System.Drawing.Color.White;
+            this.materialRadioButton1.Location = new System.Drawing.Point(10, 10);
+            this.materialRadioButton1.Margin = new System.Windows.Forms.Padding(0);
+            this.materialRadioButton1.MouseLocation = new System.Drawing.Point(-1, -1);
+            this.materialRadioButton1.MouseState = MaterialSkin.MouseState.HOVER;
+            this.materialRadioButton1.Name = "materialRadioButton1";
+            this.materialRadioButton1.Ripple = true;
+            this.materialRadioButton1.Size = new System.Drawing.Size(89, 30);
+            this.materialRadioButton1.TabIndex = 2;
+            this.materialRadioButton1.TabStop = true;
+            this.materialRadioButton1.Text = "123312";
+            this.materialRadioButton1.UseVisualStyleBackColor = true;
+            // 
+            // buttonAdd
+            // 
+            this.buttonAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(76)))), ((int)(((byte)(175)))), ((int)(((byte)(80)))));
+            this.buttonAdd.FlatAppearance.BorderSize = 0;
+            this.buttonAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonAdd.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.buttonAdd.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.buttonAdd.Location = new System.Drawing.Point(534, 77);
+            this.buttonAdd.Name = "buttonAdd";
+            this.buttonAdd.Size = new System.Drawing.Size(192, 46);
+            this.buttonAdd.TabIndex = 1;
+            this.buttonAdd.Text = "Добавить";
+            this.buttonAdd.UseVisualStyleBackColor = false;
             // 
             // bunifuImageButton1
             // 
@@ -92,48 +158,6 @@
             this.bunifuImageButton1.Zoom = 10;
             this.bunifuImageButton1.Click += new System.EventHandler(this.PanelPopularApp_Click);
             // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(30, 17);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(110, 21);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(30, 44);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(110, 21);
-            this.radioButton2.TabIndex = 0;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "radioButton1";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            // 
-            // radioButton3
-            // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(30, 71);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(110, 21);
-            this.radioButton3.TabIndex = 0;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "radioButton1";
-            this.radioButton3.UseVisualStyleBackColor = true;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(572, 66);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(154, 40);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // PanelPopularApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -144,7 +168,7 @@
             this.Controls.Add(this.ImageApp);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Name = "PanelPopularApp";
-            this.Size = new System.Drawing.Size(733, 172);
+            this.Size = new System.Drawing.Size(733, 191);
             this.Click += new System.EventHandler(this.PanelPopularApp_Click);
             ((System.ComponentModel.ISupportInitialize)(this.ImageApp)).EndInit();
             this.panel1.ResumeLayout(false);
@@ -160,10 +184,10 @@
         private System.Windows.Forms.PictureBox ImageApp;
         private System.Windows.Forms.Label NameApp;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.RadioButton radioButton3;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.Button buttonAdd;
         private Bunifu.Framework.UI.BunifuImageButton bunifuImageButton1;
+        private MaterialSkin.Controls.MaterialRadioButton materialRadioButton3;
+        private MaterialSkin.Controls.MaterialRadioButton materialRadioButton2;
+        private MaterialSkin.Controls.MaterialRadioButton materialRadioButton1;
     }
 }

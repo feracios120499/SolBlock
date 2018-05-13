@@ -218,3 +218,4 @@ C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlock\obj\Debug\SolBlock
 C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlock\obj\Debug\SolBlock.PanelPopularApp.resources
 C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlock\obj\Debug\SolBlock.Properties.Resources.resources
 C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlock\obj\Debug\SolBlock.csproj.GenerateResource.Cache
+C:\Users\Feracios\Documents\GitHub\SolBlock\SolBlock\SolBlock\bin\Debug\MaterialSkin.dll
